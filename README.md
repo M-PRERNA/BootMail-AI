@@ -2,6 +2,7 @@
 
 An AI-powered Gmail extension that seamlessly integrates an intelligent backend with the Gmail UI to generate instant, context-aware email replies.
 
+![BootMail AI Demo](https://github.com/M-PRERNA/BootMail-AI/blob/main/BootMail-AI%20GIF.gif)
 <br>
 
 ## ✨ Overview
